@@ -20,7 +20,7 @@ The intersection of computational science and soft condensed matter physics pres
 
 Feel free to explore and connect!
 
-[Web site](https://eeceron.github.io/Eduardo-CG/main.htm)
+[Web site](https://eeceron.github.io/Eduardo-CG/)
 
 <!---
 eeceron/eeceron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
